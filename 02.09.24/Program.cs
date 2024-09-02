@@ -45,3 +45,4 @@ string firstLetterChange(string userInput)
 
 string finalText = firstLetterChange(userInput);
 Console.Write($"Результат: {finalText}");
+Console.Write(" ");
